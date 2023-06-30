@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+code {
+    background: #f8f8f8;
+    padding: 0.2em 0.4em;
+    font-size: 85%;
+    border-radius: 6px;
+    white-space: break-spaces;
+}
