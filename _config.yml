@@ -1,10 +1,11 @@
 theme: jekyll-theme-minimal
-title: Résumé;
+title: Résumé
 description: |
-  <pre>// worker.ts
-  
-  // currently implemented by 
-  // Debtvision GmbH
-  interface Worker {
-    (fuel: ☕ & 💰 & 👥): &lt;/&gt;
-  }</pre>
+  <pre class="highlight"><span class="c1">// worker.ts</span>
+
+  <span class="c1">// currently implemented by</span>
+  <span class="c1">// Debtvision GmbH</span>
+  <span class="kr">interface</span> <span class="nx">Worker</span> <span class="p">{</span>
+    <span class="p">(</span><span class="nx">fuel</span><span class="p">:</span> <span class="err">☕</span> <span class="o">&amp;</span> <span class="err">💰</span> <span class="o">&amp;</span> <span class="err">👥</span><span class="p">):</span> <span class="o">&lt;</span><span class="sr">/</span><span class="err">&gt;
+  </span><span class="p">}</span>
+  </pre>
