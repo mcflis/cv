@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: ☕ → &lt;/&gt;
-description: Welcome to my CV
+description: |
+  <code>
+  type Code = '&lt;/&gt;'
+  type Fuel = '☕' &amp; ('$' | '€');
+  interface Worker {
+    (fuel: Fuel): Code
+  }
+  </code>
