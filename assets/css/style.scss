@@ -3,21 +3,15 @@
 
 @import "{{ site.theme }}";
 
-@mixin code-style {
+body {
+    -webkit-print-color-adjust:exact !important;
+    print-color-adjust:exact !important;
+}
+
+code {
     background: lightgray;
     padding: 0.2em 0.4em;
     font-size: 85%;
     border-radius: 6px;
     white-space: break-spaces;
-}
-
-code {
-    @include code-style();
-}
-
-@media print, screen and (max-width: 720px) {
-    code {
-        @include code-style();
-        word-wrap:normal;
-    }
 }
