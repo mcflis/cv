@@ -63,7 +63,7 @@ Certificate ID: 272420
 
 ## Education
 
-**Master of Sicence, Informatics** @ [TUM](https://www.tum.de/) _(Apr 2015 - May 2020)_ <br>
+**Master of Science, Informatics** @ [TUM](https://www.tum.de/) _(Apr 2015 - May 2020)_ <br>
 - **_Thesis:_** Support Scrub Meetings in Distributed Teams by Detecting Duplicates of Software Defect Reports in Issue Management Systems
 - **_Fields:_**
   - Software Engineering
