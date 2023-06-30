@@ -46,7 +46,7 @@ Dev environment for Wirecard products
 Analytics for [Siplace](https://smt.asmpt.com/en/products/placement-solutions/) SMT pick-and-place machines
 - Maintained data analysis tools in Matlab
 - **_Bachelor's Thesis:_** conceptualized and implemented an Android app for Google Glass to support operators at SMT assembly production lines
-- **_Technologies used:_** Matlab, Java, Android.
+- **_Technologies used:_** `Matlab` `Java` `Android`
 
 ## Certifications
 
