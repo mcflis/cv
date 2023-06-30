@@ -1,3 +1,11 @@
+<!---
+background: lightgray;
+padding: 0.2em 0.4em;
+font-size: 85%;
+border-radius: 6px;
+white-space: break-spaces;
+-->
+
 # Maximilian Flis
 
 _Software engineer delighted with K8s, CI/CD and GitOps based in Stuttgart 🇩🇪_
