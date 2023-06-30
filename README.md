@@ -76,3 +76,25 @@ Certificate ID: 272420
   - Game Engine Design
   - Numerical Programming
   - Operating Systems
+
+
+```ts
+// worker.ts
+
+// currently implemented by
+// Debtvision GmbH
+interface Worker {
+    (fuel: ☕ & 💰 & 👥): </>
+}
+```
+
+```typescript
+// worker.ts
+
+// currently implemented by
+// Debtvision GmbH
+interface Worker {
+    (fuel: ☕ & 💰 & 👥): </>
+}
+
+```

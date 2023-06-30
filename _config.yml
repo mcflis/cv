@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
-title: ☕ → &lt;/&gt;
+title: Résumé;
 description: |
-  <code>
-  type Code = '&lt;/&gt;'
-  type Fuel = '☕' &amp; ('$' | '€');
+  <pre>// worker.ts
+  
+  // currently implemented by 
+  // Debtvision GmbH
   interface Worker {
-    (fuel: Fuel): Code
-  }
-  </code>
+    (fuel: ☕ & 💰 & 👥): &lt;/&gt;
+  }</pre>
