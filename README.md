@@ -20,10 +20,10 @@ _Software engineer delighted with K8s, CI/CD and GitOps based in Stuttgart ðŸ‡©ð
 
 **DevOps Engineer** @ [Debtvision GmbH](https://www.debtvision.de/) _(Jul 2020 - Present)_ <br>
 New [corporate finance platform](https://ufp.debtvision.de/) that enables companies to crowd-fund their projects.
-  - Operation including automated deployment of all components (frontend, backend, infrastructure) with Flux v2
+  - Operation including automated deployment of all components (frontend, backend, infrastructure) with [Flux v2](https://fluxcd.io/flux/)
   - Incident/Event management sourced from automated alerts or user-created issues
   - Conceptualized and implemented a new multi-module CI/CD pipeline within a mono repository including a diverse set of pipeline types (merge request, branch, train, release, deployment)
-  - Built and maintained the dev environment based on Talos Linux for the corporate finance platform
+  - Built and maintained the dev environment based on [Talos Linux](https://www.talos.dev/latest/) for the corporate finance platform
   - Implemented a new Angular web app for the corporate finance platform
   - Implemented dev tools to boost DX
   - **_Technologies used:_** `GitLabCI` `Talos Linux Kubernetes` `Hetzner Cloud` `Docker` `Ansible` `Bash` `Angular` `TypeScript` `NodeJS` `Java Spring`
