@@ -15,3 +15,13 @@ code {
     border-radius: 6px;
     white-space: break-spaces;
 }
+
+@media print {
+    header {
+        display: none;
+    }
+    
+    footer {
+        display: none;
+    }
+}
