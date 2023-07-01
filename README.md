@@ -39,7 +39,6 @@ Dev environment for Wirecard products
   - Implemented and maintained Jenkins CI pipelines
   - Maintained templates for automated system integration with Puppet
   - Set up and integrated a central log server using the ELK stack (ElasticSearch, Logstash, Kibana)
-  - Evaluated Ansible playbooks as replacement for Puppet
   - **_Technologies used:_** `Jenkins` `Puppet` `Ansible` `Python` `Java` `JavaScript`
 
 **Student Employee** @ [ASM Assembly Systems GmbH & Co. KG](https://smt.asmpt.com/) _(Feb 2014 – Oct 2015)_ <br>
@@ -57,14 +56,8 @@ Certificate ID: 272420
 
 **Master of Science, Informatics** @ [TUM](https://www.tum.de/) _(Apr 2015 - May 2020)_ <br>
 - **_Thesis:_** Support Scrub Meetings in Distributed Teams by Detecting Duplicates of Software Defect Reports in Issue Management Systems
-- **_Fields:_**
-  - Software Engineering
-  - Robotics
-  - Artificial Intelligence
+- **_Fields:_** Software Engineering, Robotics, Artificial Intelligence
 
 **Bachelor of Science, Informatics: Games Engineering** @ [TUM](https://www.tum.de/) _(Oct 2011 - Mar 2015)_ <br>
-- **_Thesis_**: Operator Guidance at SMT-Assembly Production Lines Using Google Glass
-- **_Fields:_**
-  - Game Engine Design
-  - Numerical Programming
-  - Operating Systems
+- **_Thesis:_** Operator Guidance at SMT-Assembly Production Lines Using Google Glass
+- **_Fields:_** Game Engine Design, Numerical Programming, Operating Systems
