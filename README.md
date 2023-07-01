@@ -53,10 +53,10 @@ Certificate ID: 272420
 
 ## Education
 
-**Master of Science, Informatics** @ [TUM](https://www.tum.de/) _(Apr 2015 - May 2020)_\
+**Master of Science, Informatics** @ [TUM](https://www.tum.de/) _(Apr 2015 - May 2020)_
 - **_Thesis:_** Support Scrub Meetings in Distributed Teams by Detecting Duplicates of Software Defect Reports in Issue Management Systems
 - **_Fields:_** Software Engineering, Robotics, Artificial Intelligence
 
-**Bachelor of Science, Informatics: Games Engineering** @ [TUM](https://www.tum.de/) _(Oct 2011 - Mar 2015)_\
+**Bachelor of Science, Informatics: Games Engineering** @ [TUM](https://www.tum.de/) _(Oct 2011 - Mar 2015)_
 - **_Thesis:_** Operator Guidance at SMT-Assembly Production Lines Using Google Glass
 - **_Fields:_** Game Engine Design, Numerical Programming, Operating Systems
