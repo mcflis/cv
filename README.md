@@ -1,11 +1,3 @@
-<!---
-background: lightgray;
-padding: 0.2em 0.4em;
-font-size: 85%;
-border-radius: 6px;
-white-space: break-spaces;
--->
-
 # Maximilian Flis
 
 _Software engineer delighted with K8s, CI/CD and GitOps based in Stuttgart 🇩🇪_
@@ -20,12 +12,12 @@ _Software engineer delighted with K8s, CI/CD and GitOps based in Stuttgart 🇩�
 
 **DevOps Engineer** @ [Debtvision GmbH](https://www.debtvision.de/) _(Jul 2020 - Present)_ <br>
 New [corporate finance platform](https://ufp.debtvision.de/) that enables companies to crowd-fund their projects.
-  - Operation including automated deployment of all components (frontend, backend, infrastructure) with [Flux v2](https://fluxcd.io/flux/)
-  - Incident/Event management sourced from automated alerts or user-created issues
+  - Responsible for operations including automated deployment of all components (frontend, backend, infrastructure) with [Flux v2](https://fluxcd.io/flux/)
+  - Performed root-cause-analysis of operational issues impacting the production environment and drove them to conclusion
   - Conceptualized and implemented a new multi-module CI/CD pipeline within a mono repository including a diverse set of pipeline types (merge request, branch, train, release, deployment)
   - Built and maintained the dev environment based on [Talos Linux](https://www.talos.dev/latest/) for the corporate finance platform
   - Implemented a new Angular web app for the corporate finance platform
-  - Implemented dev tools to boost DX
+  - Implemented dev tools to boost developer experience
   - **_Technologies used:_** `GitLabCI` `Talos Linux Kubernetes` `Hetzner Cloud` `Docker` `Ansible` `Bash` `Angular` `TypeScript` `NodeJS` `Java Spring`
 
 
@@ -36,7 +28,7 @@ Division "Technology" responsible for the implementation of Set-Top-Box (STB) ap
   - Owner of code review processes
   - Conceptualized and implemented a build script for compilation of STB apps
   - Implemented a prototype of CI Pipelines using Jenkins
-  - Implemented dev tools to boost DX
+  - Implemented dev tools to boost developer experience
   - Coordinated co-workers in dev teams.
   - Involvement in technical interviews of job applicants
   - **_Master's Thesis:_** Design and development of a ML powered tool to support identifying duplicate defect reports in Jira 
