@@ -48,7 +48,7 @@ Analytics for [Siplace](https://smt.asmpt.com/en/products/placement-solutions/) 
 
 ## Certifications
 
-**Professional Scrum Master I** @ [Scrum.org](https://www.scrum.org/user/272420) _(Apr 2017)_\
+**Professional Scrum Master I** @ [Scrum.org](https://www.scrum.org/user/272420) _(Aug 2017)_\
 Certificate ID: 272420
 
 ## Education
