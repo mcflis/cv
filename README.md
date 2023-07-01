@@ -28,7 +28,7 @@ Division "Technology" responsible for the implementation of Set-Top-Box (STB) ap
   - Owner of code review processes
   - Conceptualized and implemented a build script for compilation of STB apps
   - Implemented a prototype of CI Pipelines using Jenkins
-  - Coordinated co-workers in dev teams.
+  - Coordinated co-workers in dev teams
   - Involvement in technical interviews of job applicants
   - **_Master's Thesis:_** Design and development of a ML powered tool to support identifying duplicate defect reports in Jira 
   - **_Technologies used:_** `GitHub` `TypeScript` `NodeJS` `Vagrant` `Docker` `Ansible` `ActionScript` `Java` `Python` `Keras` `Tensorflow` 
