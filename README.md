@@ -2,7 +2,7 @@
 
 _Software engineer delighted with K8s, CI/CD and GitOps based in Stuttgart 🇩🇪_
 
-[Email](mailto:recruit-max@dahoam.cloud) / [LinkedIn](https://www.linkedin.com/in/maximilian-flis/) / [GitHub](https://github.com/mcflis)
+[CV](https://mcflis.github.io/cv/) / [Email](mailto:recruit-max@dahoam.cloud) / [LinkedIn](https://www.linkedin.com/in/maximilian-flis/) / [GitHub](https://github.com/mcflis)
 
 ## Skills
 
