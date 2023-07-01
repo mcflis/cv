@@ -30,7 +30,7 @@ Division "Technology" responsible for the implementation of Set-Top-Box (STB) ap
   - Implemented a prototype of CI Pipelines using Jenkins
   - Coordinated co-workers in dev teams
   - Involvement in technical interviews of job applicants
-  - **_Master's Thesis:_** Design and development of a ML powered tool to support identifying duplicate defect reports in Jira 
+  - **_Master's Thesis:_** conceptualized and implemented a machine learning powered tool to support identifying duplicate defect reports in Jira 
   - **_Technologies used:_** `GitHub` `TypeScript` `NodeJS` `Vagrant` `Docker` `Ansible` `ActionScript` `Java` `Python` `Keras` `Tensorflow` 
 
 **DevOps Engineer** @ [Wirecard Technologies GmbH](https://www.wirecard.com/) _(Nov 2015 - Apr 2016)_\
